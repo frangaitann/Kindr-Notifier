@@ -1,0 +1,1769 @@
+1678063338755	geckodriver	INFO	Listening on 127.0.0.1:37485
+1678063338922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez0n99w"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678063359938	Marionette	INFO	Marionette enabled
+1678063359980	Marionette	INFO	Listening on port 33999
+Read port: 33999
+Read port: 33999
+WebDriver BiDi listening on ws://127.0.0.1:55829
+1678063363002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez0n99w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55829/devtools/browser/8ee0500e-9f6a-4309-a5c5-47c984a9daef
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1678666009488	geckodriver	INFO	Listening on 127.0.0.1:34121
+1678666010009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZJucZs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678666027483	Marionette	INFO	Marionette enabled
+1678666027564	Marionette	INFO	Listening on port 34119
+Read port: 34119
+Read port: 34119
+WebDriver BiDi listening on ws://127.0.0.1:34867
+1678666029545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZJucZs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34867/devtools/browser/81560a84-63ce-4718-af32-9a59c9616803
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1678667908974	geckodriver	INFO	Listening on 127.0.0.1:40039
+1678667909498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5ksm7a"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678667926116	Marionette	INFO	Marionette enabled
+1678667926146	Marionette	INFO	Listening on port 34807
+Read port: 34807
+WebDriver BiDi listening on ws://127.0.0.1:36789
+Read port: 34807
+1678667927881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5ksm7a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36789/devtools/browser/49bb3c71-aeff-44c2-bb7f-3bac1160ef6c
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+1678668582737	geckodriver	INFO	Listening on 127.0.0.1:37555
+1678668583327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ21uyQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678668595042	Marionette	INFO	Marionette enabled
+1678668595116	Marionette	INFO	Listening on port 38409
+Read port: 38409
+Read port: 38409
+WebDriver BiDi listening on ws://127.0.0.1:48757
+1678668597242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ21uyQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48757/devtools/browser/c2a7e2f1-9af9-4dcc-8258-8dc65fbef845
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1678668953121	geckodriver	INFO	Listening on 127.0.0.1:54969
+1678668953617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0Wva5H"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678668966496	Marionette	INFO	Marionette enabled
+1678668966527	Marionette	INFO	Listening on port 41893
+Read port: 41893
+WebDriver BiDi listening on ws://127.0.0.1:34251
+Read port: 41893
+1678668968603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Wva5H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34251/devtools/browser/fe371f00-e439-4aea-ad17-da0331a0c802
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1678669111817	geckodriver	INFO	Listening on 127.0.0.1:48269
+1678669112298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileattslL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678669122602	Marionette	INFO	Marionette enabled
+1678669122611	Marionette	INFO	Listening on port 42427
+Read port: 42427
+Read port: 42427
+WebDriver BiDi listening on ws://127.0.0.1:34071
+Read port: 42427
+1678669125438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileattslL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34071/devtools/browser/b2d5d5fa-d436-4b79-8ed8-1bace51a950e
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+1678669584771	geckodriver	INFO	Listening on 127.0.0.1:54307
+1678669585248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSxtqWI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678669604450	Marionette	INFO	Marionette enabled
+1678669604479	Marionette	INFO	Listening on port 36837
+Read port: 36837
+Read port: 36837
+WebDriver BiDi listening on ws://127.0.0.1:39823
+1678669607050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSxtqWI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39823/devtools/browser/4a2cb4b4-9999-4394-8b2b-c4fa46aa5c25
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2177,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2177","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1083","resource:///modules/ContentCrashHandlers.jsm:observe:177"]}] Barrier: quit-application-granted
+[Parent 8735, IPC I/O Parent] WARNING: process 8870 exited on signal 15: file /build/firefox-AoeKfi/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+1678670273108	Marionette	INFO	Stopped listening on port 38409
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2177,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2177","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1083","resource:///modules/ContentCrashHandlers.jsm:observe:177"]}] Barrier: quit-application-granted
+[Parent 6841, IPC I/O Parent] WARNING: process 6985 exited on signal 15: file /build/firefox-AoeKfi/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1678670299190	Marionette	INFO	Stopped listening on port 34119
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child 12428
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Exiting due to channel error.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+[Parent 6841, IPC I/O Parent] WARNING: process 6938 exited on signal 9: file /build/firefox-AoeKfi/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+1678673889576	geckodriver	INFO	Listening on 127.0.0.1:51237
+1678673889969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDPRvXk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678673902071	Marionette	INFO	Marionette enabled
+1678673902111	Marionette	INFO	Listening on port 45435
+Read port: 45435
+Read port: 45435
+WebDriver BiDi listening on ws://127.0.0.1:40189
+1678673904095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDPRvXk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40189/devtools/browser/8d3beac8-c186-48d9-acfe-57e49a40cbdb
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1690242111986	geckodriver	INFO	Listening on 127.0.0.1:54763
+1690242112445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezv855G"
+*** You are running in headless mode.
+
+(firefox:68578): Gtk-WARNING **: 20:41:55.488: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690242143714	Marionette	INFO	Marionette enabled
+1690242146914	Marionette	INFO	Listening on port 38069
+Read port: 38069
+WebDriver BiDi listening on ws://127.0.0.1:46299
+1690242148632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:46299/devtools/browser/ba45cae5-e481-4a51-8924-8052baf6c5ba
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1690392311543	geckodriver	INFO	Listening on 127.0.0.1:40575
+1690392312052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTvr2Hu"
+*** You are running in headless mode.
+
+(firefox:3800): Gtk-WARNING **: 14:25:14.603: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1690392336428	Marionette	INFO	Marionette enabled
+1690392343644	Marionette	INFO	Listening on port 46595
+Read port: 46595
+WebDriver BiDi listening on ws://127.0.0.1:57997
+1690392345047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57997/devtools/browser/e9cbb6f7-29ca-4ba9-86c8-2b98f00ed285
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690392966729	geckodriver	INFO	Listening on 127.0.0.1:48485
+1690392968597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqeru8R"
+*** You are running in headless mode.
+
+(firefox:4443): Gtk-WARNING **: 14:36:47.701: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1690393098773	geckodriver::browser	ERROR	Failed to stop browser process: Permission denied (os error 13)
+1690393098919	geckodriver::marionette	ERROR	Failed to stop browser: WebDriverError { error: UnknownError, message: "Permission denied (os error 13)", stack: "", delete_session: false }
+1690393129848	Marionette	INFO	Marionette enabled
+1690393147378	Marionette	INFO	Listening on port 44319
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+WebDriver BiDi listening on ws://127.0.0.1:58953
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58953/devtools/browser/d5de04bb-5ee6-4189-ae5d-365ef20c3012
+1690393787706	geckodriver	INFO	Listening on 127.0.0.1:49015
+1690393788152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMlKXCq"
+*** You are running in headless mode.
+
+(firefox:5145): Gtk-WARNING **: 14:49:50.153: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690393797762	Marionette	INFO	Marionette enabled
+1690393798590	Marionette	INFO	Listening on port 42251
+Read port: 42251
+WebDriver BiDi listening on ws://127.0.0.1:40701
+1690393799274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40701/devtools/browser/aad2b44a-6ed1-4361-aa7e-ab5e4e8c961a
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690393950652	geckodriver	INFO	Listening on 127.0.0.1:60151
+1690393951154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefrIIVc"
+*** You are running in headless mode.
+
+(firefox:5639): Gtk-WARNING **: 14:52:31.330: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690393956066	Marionette	INFO	Marionette enabled
+1690393956330	Marionette	INFO	Listening on port 36895
+WebDriver BiDi listening on ws://127.0.0.1:57837
+Read port: 36895
+1690393957256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57837/devtools/browser/942c2cf2-1f75-454a-bf3a-fe2ce432c555
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1690407377241	geckodriver	INFO	Listening on 127.0.0.1:58199
+1690407377738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWJxSnn"
+*** You are running in headless mode.
+
+(firefox:1753): Gtk-WARNING **: 18:36:20.374: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690407389974	Marionette	INFO	Marionette enabled
+1690407391384	Marionette	INFO	Listening on port 42925
+Read port: 42925
+WebDriver BiDi listening on ws://127.0.0.1:39093
+1690407392265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39093/devtools/browser/02cb5420-bfc4-4c8f-99ac-f9164028c20a
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690407498799	geckodriver	INFO	Listening on 127.0.0.1:38913
+1690407499258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3fzHU"
+*** You are running in headless mode.
+
+(firefox:2323): Gtk-WARNING **: 18:38:21.075: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1690407513016	Marionette	INFO	Marionette enabled
+1690407513874	Marionette	INFO	Listening on port 34801
+Read port: 34801
+WebDriver BiDi listening on ws://127.0.0.1:43241
+1690407514369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43241/devtools/browser/d75c2011-eaf9-4f13-9ab6-afcd6e3ba6db
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690408065715	geckodriver	INFO	Listening on 127.0.0.1:37761
+1690408066198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledH54Ww"
+*** You are running in headless mode.
+
+(firefox:2962): Gtk-WARNING **: 18:47:49.113: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690408084538	Marionette	INFO	Marionette enabled
+1690408085530	Marionette	INFO	Listening on port 40695
+Read port: 40695
+WebDriver BiDi listening on ws://127.0.0.1:50387
+1690408086799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50387/devtools/browser/b5101435-f52f-4470-9625-58a983df92cc
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690408467197	geckodriver	INFO	Listening on 127.0.0.1:35075
+1690408467662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN1j4hv"
+*** You are running in headless mode.
+
+(firefox:3738): Gtk-WARNING **: 18:54:30.328: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690408481037	Marionette	INFO	Marionette enabled
+1690408482021	Marionette	INFO	Listening on port 38011
+Read port: 38011
+WebDriver BiDi listening on ws://127.0.0.1:50953
+1690408483511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50953/devtools/browser/8cd0e556-ad07-47fa-8027-6aa64e31edf2
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690409328992	geckodriver	INFO	Listening on 127.0.0.1:54407
+1690409329325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelZqAh6"
+*** You are running in headless mode.
+
+(firefox:4896): Gtk-WARNING **: 19:08:53.128: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690409359219	Marionette	INFO	Marionette enabled
+1690409361385	Marionette	INFO	Listening on port 40183
+Read port: 40183
+WebDriver BiDi listening on ws://127.0.0.1:54937
+1690409362959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54937/devtools/browser/d37b67cf-afe3-457a-8f31-83e143ebd4a1
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690411759446	geckodriver	INFO	Listening on 127.0.0.1:39619
+1690411759719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFNuRhZ"
+*** You are running in headless mode.
+
+(firefox:6699): Gtk-WARNING **: 19:49:22.297: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690411777133	Marionette	INFO	Marionette enabled
+1690411778764	Marionette	INFO	Listening on port 36521
+Read port: 36521
+WebDriver BiDi listening on ws://127.0.0.1:34535
+1690411779941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34535/devtools/browser/fb2a44d8-74be-41a9-bd0c-dd8bb472fcc3
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1690411876560	geckodriver	INFO	Listening on 127.0.0.1:45845
+1690411876932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebdCcen"
+*** You are running in headless mode.
+
+(firefox:7128): Gtk-WARNING **: 19:51:19.752: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690411895185	Marionette	INFO	Marionette enabled
+1690411896118	Marionette	INFO	Listening on port 38823
+Read port: 38823
+WebDriver BiDi listening on ws://127.0.0.1:60931
+1690411897157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60931/devtools/browser/da2a8218-1a44-409e-93f6-e313b6fc260e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690412358797	geckodriver	INFO	Listening on 127.0.0.1:60535
+1690412359196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW0oUSy"
+*** You are running in headless mode.
+
+(firefox:7746): Gtk-WARNING **: 19:59:22.862: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690412377822	Marionette	INFO	Marionette enabled
+1690412379883	Marionette	INFO	Listening on port 37581
+Read port: 37581
+WebDriver BiDi listening on ws://127.0.0.1:44263
+1690412381228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:44263/devtools/browser/0281cd1f-fb52-4183-a703-3c85b56f7e6f
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690415374586	geckodriver	INFO	Listening on 127.0.0.1:45283
+1690415374833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTa5xhu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690415396460	Marionette	INFO	Marionette enabled
+1690415398700	Marionette	INFO	Listening on port 33447
+Read port: 33447
+WebDriver BiDi listening on ws://127.0.0.1:36419
+1690415400067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36419/devtools/browser/dd4806ca-8bed-4da1-bbf7-575804ae4623
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1690415507911	Marionette	INFO	Stopped listening on port 33447
+[Parent 11965, IPC I/O Parent] WARNING: process 12241 exited on signal 15: file /build/firefox-wPjI4A/firefox-115.0.2+build1/ipc/chromium/src/base/process_util_posix.cc:264
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/websites-with-shared-credential-backends getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1690418791834	geckodriver	INFO	Listening on 127.0.0.1:34067
+1690418792354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXFMGn2"
+*** You are running in headless mode.
+
+(firefox:12783): Gtk-WARNING **: 21:46:36.784: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690418819251	Marionette	INFO	Marionette enabled
+1690418821613	Marionette	INFO	Listening on port 33859
+Read port: 33859
+WebDriver BiDi listening on ws://127.0.0.1:49055
+1690418823138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:49055/devtools/browser/4abcb37a-499c-4488-9504-a161d4ef5ac0
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690422958390	geckodriver	INFO	Listening on 127.0.0.1:40285
+1690422958971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLLvr6u"
+*** You are running in headless mode.
+
+(firefox:13687): Gtk-WARNING **: 22:56:05.659: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690423020985	Marionette	INFO	Marionette enabled
+1690423026091	Marionette	INFO	Listening on port 36767
+WebDriver BiDi listening on ws://127.0.0.1:36247
+1690423091821	geckodriver::browser	ERROR	Failed to stop browser process: Permission denied (os error 13)
+1690423092685	geckodriver::marionette	ERROR	Failed to stop browser: WebDriverError { error: UnknownError, message: "Permission denied (os error 13)", stack: "", delete_session: false }
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: (new UnknownError("IndexedDB: main/anti-tracking-url-decoration getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new NotFoundError("Could not get children of file(/tmp/rust_mozprofileLLvr6u/crashes/events) because it does not exist", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new UnknownError("IndexedDB: main/hijack-blocklists getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new UnknownError("IndexedDB: main/addons-manager-settings getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new UnknownError("IndexedDB: main/search-telemetry-v2 getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new UnknownError("IndexedDB: main/search-config getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new UnknownError("IndexedDB: main/top-sites getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new UnknownError("IndexedDB: blocklists/gfx getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+DevTools listening on ws://127.0.0.1:36247/devtools/browser/075c9121-815d-4df9-bcfd-3125c2a16924
+1690423229580	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+console.error: (new UnknownError("IndexedDB: main/public-suffix-list getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.jsm", 18))
+1690423372138	geckodriver	INFO	Listening on 127.0.0.1:54691
+1690423372607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile82O4uZ"
+*** You are running in headless mode.
+
+(firefox:14143): Gtk-WARNING **: 23:02:57.944: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690423396262	Marionette	INFO	Marionette enabled
+1690423397686	Marionette	INFO	Listening on port 42773
+Read port: 42773
+WebDriver BiDi listening on ws://127.0.0.1:50405
+1690423398594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:50405/devtools/browser/77218974-429a-47b4-b499-6de832006f08
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690424007354	geckodriver	INFO	Listening on 127.0.0.1:56467
+1690424007904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewz1GWs"
+*** You are running in headless mode.
+
+(firefox:14827): Gtk-WARNING **: 23:13:33.939: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690424037805	Marionette	INFO	Marionette enabled
+1690424039147	Marionette	INFO	Listening on port 33331
+Read port: 33331
+WebDriver BiDi listening on ws://127.0.0.1:59977
+Read port: 33331
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+1690424046800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:59977/devtools/browser/fd838f65-affc-43ff-a09e-f0f710152e21
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1690425167389	geckodriver	INFO	Listening on 127.0.0.1:59679
+1690425168536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUwSLnl"
+*** You are running in headless mode.
+
+(firefox:1740): Gtk-WARNING **: 23:33:01.577: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690425205196	Marionette	INFO	Marionette enabled
+1690425206669	Marionette	INFO	Listening on port 33975
+Read port: 33975
+WebDriver BiDi listening on ws://127.0.0.1:40821
+1690425207598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40821/devtools/browser/f6285a90-d2d9-45ed-a640-ddfd255fb985
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690425320825	geckodriver	INFO	Listening on 127.0.0.1:52675
+1690425321305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevGwBxJ"
+*** You are running in headless mode.
+
+(firefox:2351): Gtk-WARNING **: 23:35:22.879: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690425331202	Marionette	INFO	Marionette enabled
+1690425332149	Marionette	INFO	Listening on port 39797
+Read port: 39797
+WebDriver BiDi listening on ws://127.0.0.1:52585
+1690425332765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+/home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so: cannot open shared object file: Permission denied
+Failed to load module: /home/admin-admiral1/snap/code/common/.cache/gio-modules/libdconfsettings.so
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52585/devtools/browser/94b6cdda-4174-4181-b637-eaa92475e501
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690426657473	geckodriver	INFO	Listening on 127.0.0.1:57699
+1690426657953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesj7jkJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690426662904	Marionette	INFO	Marionette enabled
+1690426663795	Marionette	INFO	Listening on port 39205
+WebDriver BiDi listening on ws://127.0.0.1:33047
+Read port: 39205
+1690426664838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33047/devtools/browser/afb79254-ee2a-4ef9-b900-fcaf86aa634e
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1690483494885	geckodriver	INFO	Listening on 127.0.0.1:58927
+1690483495317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezRRgyp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690483505662	Marionette	INFO	Marionette enabled
+1690483507044	Marionette	INFO	Listening on port 36071
+Read port: 36071
+WebDriver BiDi listening on ws://127.0.0.1:48673
+1690483508026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48673/devtools/browser/9968762d-51d4-4bd2-a125-4b0891397406
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691020269433	geckodriver	INFO	Listening on 127.0.0.1:53985
+1691020269871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "37709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezS3YiP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691020279322	Marionette	INFO	Marionette enabled
+1691020280702	Marionette	INFO	Listening on port 35307
+Read port: 35307
+WebDriver BiDi listening on ws://127.0.0.1:37709
+1691020281782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37709/devtools/browser/05362240-d959-43b5-a4ce-225fdff1d4fd
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691020345732	geckodriver	INFO	Listening on 127.0.0.1:60799
+1691020346238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "41649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8QFMcM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691020346838	Marionette	INFO	Marionette enabled
+1691020346981	Marionette	INFO	Listening on port 41411
+WebDriver BiDi listening on ws://127.0.0.1:41649
+Read port: 41411
+1691020347679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41649/devtools/browser/4a32120a-0620-405a-b390-86be1118afd0
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691029189883	geckodriver	INFO	Listening on 127.0.0.1:48589
+1691029190319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMIo9cq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691029203732	Marionette	INFO	Marionette enabled
+1691029205371	Marionette	INFO	Listening on port 40117
+Read port: 40117
+WebDriver BiDi listening on ws://127.0.0.1:46401
+1691029206226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:46401/devtools/browser/39f275e0-0eb4-4155-8275-9b8881525240
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691029321254	geckodriver	INFO	Listening on 127.0.0.1:33751
+1691029321778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesmGp8f"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691029326436	Marionette	INFO	Marionette enabled
+1691029326782	Marionette	INFO	Listening on port 33349
+Read port: 33349
+WebDriver BiDi listening on ws://127.0.0.1:48101
+1691029327147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48101/devtools/browser/3066d22e-0506-448b-8863-61f9573aa953
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691029364986	geckodriver	INFO	Listening on 127.0.0.1:41309
+1691029365462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZR5JCD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691029373175	Marionette	INFO	Marionette enabled
+1691029373962	Marionette	INFO	Listening on port 33095
+Read port: 33095
+WebDriver BiDi listening on ws://127.0.0.1:42137
+1691029374791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:42137/devtools/browser/9a8eda3c-7907-49ef-80ac-afa81a317d29
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691029474412	geckodriver	INFO	Listening on 127.0.0.1:60507
+1691029474909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIJXMUc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691029487568	Marionette	INFO	Marionette enabled
+1691029488216	Marionette	INFO	Listening on port 44461
+Read port: 44461
+WebDriver BiDi listening on ws://127.0.0.1:58525
+1691029488816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58525/devtools/browser/370fd068-c708-41ab-80eb-ec33b232a0bd
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691029590199	geckodriver	INFO	Listening on 127.0.0.1:46297
+1691029590541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelLOu1r"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691029598860	Marionette	INFO	Marionette enabled
+1691029599299	Marionette	INFO	Listening on port 38289
+Read port: 38289
+WebDriver BiDi listening on ws://127.0.0.1:34585
+1691029600441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34585/devtools/browser/99382806-7cbb-437e-bc0d-de96e6cc3490
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691029664220	geckodriver	INFO	Listening on 127.0.0.1:33381
+1691029664706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile98E9vt"
+MESA: error: Failed to query drm device.
+libGL error: glx: failed to create dri3 screen
+libGL error: failed to load driver: crocus
+MESA: error: Failed to query drm device.
+libGL error: glx: failed to create dri2 screen
+libGL error: failed to load driver: crocus
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691029703545	Marionette	INFO	Marionette enabled
+1691029707335	Marionette	INFO	Listening on port 46809
+Read port: 46809
+WebDriver BiDi listening on ws://127.0.0.1:41581
+Read port: 46809
+1691029714429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:41581/devtools/browser/d6753d69-c603-46fa-b985-07f8a455de9d
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript warning: https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854, line 1: Script terminated by timeout at:
+T/<@https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854:1:11936
+t@https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854:1:11797
+
+1691029981447	Marionette	INFO	Stopped listening on port 46809
+1691030082243	geckodriver	INFO	Listening on 127.0.0.1:57975
+1691030082742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFqECN2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691030093546	Marionette	INFO	Marionette enabled
+1691030094403	Marionette	INFO	Listening on port 43283
+Read port: 43283
+WebDriver BiDi listening on ws://127.0.0.1:46103
+1691030094932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:46103/devtools/browser/0e871df1-f37f-4e7d-8071-37f00d1573ca
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691030483210	geckodriver	INFO	Listening on 127.0.0.1:49497
+1691030483729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCxy1zl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691030486227	Marionette	INFO	Marionette enabled
+1691030486500	Marionette	INFO	Listening on port 43965
+Read port: 43965
+WebDriver BiDi listening on ws://127.0.0.1:35849
+1691030487281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35849/devtools/browser/83a86f8e-623d-43a6-953b-14f057e75c26
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 30 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 7511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691030949738	geckodriver	INFO	Listening on 127.0.0.1:48165
+1691030950278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerj1R9s"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691030955406	Marionette	INFO	Marionette enabled
+1691030955809	Marionette	INFO	Listening on port 41791
+Read port: 41791
+WebDriver BiDi listening on ws://127.0.0.1:34079
+1691030956725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34079/devtools/browser/47488af8-afba-4b3a-b9aa-d86663511c15
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691030991399	geckodriver	INFO	Listening on 127.0.0.1:49041
+1691030994276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7XTU7e"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691031010188	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398919, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1691031013653	Marionette	INFO	Marionette enabled
+1691031014646	Marionette	INFO	Listening on port 37419
+Read port: 37419
+WebDriver BiDi listening on ws://127.0.0.1:54785
+Read port: 37419
+1691031030796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54785/devtools/browser/78251698-3c45-4b43-b449-25b6f7c2e861
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[GFX1-]: Managed to allocate after flush.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1268 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1268 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6841 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6841 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Managed to allocate after flush.
+1691035888479	geckodriver	INFO	Listening on 127.0.0.1:45955
+1691035888906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5ouzH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691035897236	Marionette	INFO	Marionette enabled
+1691035898483	Marionette	INFO	Listening on port 41557
+Read port: 41557
+WebDriver BiDi listening on ws://127.0.0.1:34205
+1691035899197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34205/devtools/browser/827b27ca-0f89-4c04-8473-03845b00940a
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691035918355	geckodriver	INFO	Listening on 127.0.0.1:53365
+1691035918911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesXuwSv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691035921945	Marionette	INFO	Marionette enabled
+1691035922098	Marionette	INFO	Listening on port 33681
+WebDriver BiDi listening on ws://127.0.0.1:42821
+Read port: 33681
+1691035922618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:42821/devtools/browser/d98c460a-3e26-4b85-822d-b2ef6dbb15aa
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+1691035950487	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+[GFX1-]: Managed to allocate after flush.
+1691037259211	geckodriver	INFO	Listening on 127.0.0.1:51447
+1691037259577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIVhU0z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691037265750	Marionette	INFO	Marionette enabled
+1691037266532	Marionette	INFO	Listening on port 42463
+Read port: 42463
+WebDriver BiDi listening on ws://127.0.0.1:54465
+1691037267307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54465/devtools/browser/88b2219b-67f3-4612-a627-d8b3ec32b8dc
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691084099594	geckodriver	INFO	Listening on 127.0.0.1:59789
+1691084099997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "51981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7x1BgV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691084103104	Marionette	INFO	Marionette enabled
+1691084103522	Marionette	INFO	Listening on port 37679
+Read port: 37679
+WebDriver BiDi listening on ws://127.0.0.1:51981
+1691084104147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51981/devtools/browser/d0c6ae90-8f51-4f5d-84cf-d9a6d50bfab4
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691084308515	geckodriver	INFO	Listening on 127.0.0.1:42205
+1691084308952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevEcEgw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691084311212	Marionette	INFO	Marionette enabled
+1691084311394	Marionette	INFO	Listening on port 40229
+WebDriver BiDi listening on ws://127.0.0.1:52055
+Read port: 40229
+1691084312129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52055/devtools/browser/ebc99630-c4b8-44f4-bdcf-8fe3cbcd5634
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691084324777	geckodriver	INFO	Listening on 127.0.0.1:54149
+1691084325324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqaz3Sa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691084328089	Marionette	INFO	Marionette enabled
+1691084328254	Marionette	INFO	Listening on port 37589
+WebDriver BiDi listening on ws://127.0.0.1:48099
+Read port: 37589
+1691084329835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48099/devtools/browser/d3d377d4-4b58-4756-bb35-15c8adbff422
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XE-eSxg4gZ8v28buoH5xKIZwH3Gkn_IqRFqb49XH2AY.js line 2 > eval line 738 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1691084427438	Marionette	INFO	Stopped listening on port 37679
+[Parent 4431, IPC I/O Parent] WARNING: process 4497 exited on signal 9: file /build/firefox-ag75Jc/firefox-116.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+1691085036878	geckodriver	INFO	Listening on 127.0.0.1:34021
+1691085037383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTjTsa3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085042105	Marionette	INFO	Marionette enabled
+1691085042632	Marionette	INFO	Listening on port 45619
+Read port: 45619
+WebDriver BiDi listening on ws://127.0.0.1:50771
+1691085043227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50771/devtools/browser/dde6b08f-88cc-4c2b-ab6d-c21983add33b
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691085274762	geckodriver	INFO	Listening on 127.0.0.1:53925
+1691085275291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledQwJCh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085278943	Marionette	INFO	Marionette enabled
+1691085279184	Marionette	INFO	Listening on port 42923
+Read port: 42923
+WebDriver BiDi listening on ws://127.0.0.1:50505
+1691085279764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50505/devtools/browser/595638aa-8174-4e9b-9aad-20009e8922aa
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691085293213	geckodriver	INFO	Listening on 127.0.0.1:40219
+1691085293729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "41391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3asgXJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085294486	Marionette	INFO	Marionette enabled
+1691085294676	Marionette	INFO	Listening on port 42873
+WebDriver BiDi listening on ws://127.0.0.1:41391
+Read port: 42873
+1691085296185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41391/devtools/browser/d1dbdc9d-c312-4dbb-9b3e-bd51799b0952
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 507 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691085403489	geckodriver	INFO	Listening on 127.0.0.1:33029
+1691085404586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZvCdXq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085415112	Marionette	INFO	Marionette enabled
+1691085416349	Marionette	INFO	Listening on port 42193
+Read port: 42193
+WebDriver BiDi listening on ws://127.0.0.1:56179
+1691085417452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56179/devtools/browser/73252699-5930-4f7b-8260-691f6c14584e
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691085448069	geckodriver	INFO	Listening on 127.0.0.1:42947
+1691085448726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "37029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqlUP7T"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691085455407	Marionette	INFO	Marionette enabled
+1691085455830	Marionette	INFO	Listening on port 38435
+WebDriver BiDi listening on ws://127.0.0.1:37029
+Read port: 38435
+Read port: 38435
+Read port: 38435
+Read port: 38435
+Read port: 38435
+Read port: 38435
+Read port: 38435
+Read port: 38435
+Read port: 38435
+1691085465230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37029/devtools/browser/e44c73eb-069d-4cb6-a0a9-f004f8666c7c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 6074 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 6074 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1691085820845	geckodriver	INFO	Listening on 127.0.0.1:41743
+1691085821386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "41427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefpBE7U"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085834335	Marionette	INFO	Marionette enabled
+1691085835160	Marionette	INFO	Listening on port 36641
+Read port: 36641
+WebDriver BiDi listening on ws://127.0.0.1:41427
+1691085836117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41427/devtools/browser/cc34b7c9-1bbf-4215-a6ef-ac89b50d31b7
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691085874568	geckodriver	INFO	Listening on 127.0.0.1:42231
+1691085875481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeTXhc5"
+1691085926882	geckodriver	INFO	Listening on 127.0.0.1:47923
+1691085926914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDsqWCQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085929422	Marionette	INFO	Marionette enabled
+1691085929680	Marionette	INFO	Listening on port 38869
+Read port: 38869
+WebDriver BiDi listening on ws://127.0.0.1:55085
+1691085930379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55085/devtools/browser/62a459c3-f9d8-448e-b65b-a5af7b1350ff
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691085950325	geckodriver	INFO	Listening on 127.0.0.1:42893
+1691085950921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehcC4Bb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085958767	Marionette	INFO	Marionette enabled
+1691085959277	Marionette	INFO	Listening on port 36459
+Read port: 36459
+WebDriver BiDi listening on ws://127.0.0.1:50517
+1691085959837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50517/devtools/browser/b738a4ca-9731-4df0-9294-44807ede939f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 5703 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 2826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691086284998	geckodriver	INFO	Listening on 127.0.0.1:45363
+1691086285540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7fBgjM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691086292324	Marionette	INFO	Marionette enabled
+1691086293122	Marionette	INFO	Listening on port 35043
+Read port: 35043
+WebDriver BiDi listening on ws://127.0.0.1:52563
+1691086293943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52563/devtools/browser/b629a28b-c52a-4de3-b896-5e2c873fc3b7
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691086327156	geckodriver	INFO	Listening on 127.0.0.1:39779
+1691086328725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile95ole4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691086341410	Marionette	INFO	Marionette enabled
+1691086342991	Marionette	INFO	Listening on port 41395
+Read port: 41395
+WebDriver BiDi listening on ws://127.0.0.1:43385
+Read port: 41395
+1691086346659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43385/devtools/browser/cc25d567-5c5f-4f11-ad2c-a62bd5dbf1f2
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691086396781	geckodriver	INFO	Listening on 127.0.0.1:49019
+1691086397575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile88EnJt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691086418132	Marionette	INFO	Marionette enabled
+1691086419152	Marionette	INFO	Listening on port 38609
+Read port: 38609
+WebDriver BiDi listening on ws://127.0.0.1:40277
+1691086424706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40277/devtools/browser/d1eceb06-e6fb-46c9-baae-c5a852ccf269
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 7632 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 7632 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1691086951597	geckodriver	INFO	Listening on 127.0.0.1:49985
+1691086952029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileieJFqW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691086970847	Marionette	INFO	Marionette enabled
+1691086973479	Marionette	INFO	Listening on port 37421
+Read port: 37421
+WebDriver BiDi listening on ws://127.0.0.1:59111
+1691086975120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:59111/devtools/browser/2ddc1437-094e-456a-a7e7-767565862edd
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691087028959	geckodriver	INFO	Listening on 127.0.0.1:60837
+1691087030348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejW6nFI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691087454853	geckodriver	INFO	Listening on 127.0.0.1:33005
+1691087455416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOjG8F4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691087473731	Marionette	INFO	Marionette enabled
+1691087475461	Marionette	INFO	Listening on port 46649
+Read port: 46649
+WebDriver BiDi listening on ws://127.0.0.1:56559
+1691087476853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[Parent 9530, IPC I/O Parent] WARNING: process 9800 exited on signal 15: file /build/firefox-ag75Jc/firefox-116.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1691087596344	Marionette	INFO	Stopped listening on port 46649
+1691087596604	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1691088604767	geckodriver	INFO	Listening on 127.0.0.1:59199
+1691088605205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePBY9Ih"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691088612427	Marionette	INFO	Marionette enabled
+1691088613717	Marionette	INFO	Listening on port 44365
+Read port: 44365
+WebDriver BiDi listening on ws://127.0.0.1:55061
+1691088614587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55061/devtools/browser/f9ad882b-feb6-4dbc-bfb1-2c87e3536e10
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691088640376	geckodriver	INFO	Listening on 127.0.0.1:60763
+1691088640878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL7xsf5"
+*** You are running in headless mode.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691088643659	Marionette	INFO	Marionette enabled
+1691088643821	Marionette	INFO	Listening on port 34021
+WebDriver BiDi listening on ws://127.0.0.1:45141
+Read port: 34021
+Read port: 34021
+1691088647207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45141/devtools/browser/1a259121-0023-4dcc-b4b6-bdbd6e0b7fa1
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691088665715	geckodriver	INFO	Listening on 127.0.0.1:54709
+1691088666248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehlNzpB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): failed to read data from child process: 
+[GFX1-]: timeout
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691088674463	Marionette	INFO	Marionette enabled
+1691088674746	Marionette	INFO	Listening on port 37055
+WebDriver BiDi listening on ws://127.0.0.1:35619
+Read port: 37055
+1691088675601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35619/devtools/browser/058dcac8-1948-416e-bc59-051366668755
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 129 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 129 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691089427106	geckodriver	INFO	Listening on 127.0.0.1:46123
+1691089427599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejX4hk8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691089430974	Marionette	INFO	Marionette enabled
+1691089431185	Marionette	INFO	Listening on port 45103
+Read port: 45103
+WebDriver BiDi listening on ws://127.0.0.1:34707
+1691089431793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34707/devtools/browser/ec4ca15d-b4a3-4d48-934b-efb592645444
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691089447683	geckodriver	INFO	Listening on 127.0.0.1:36481
+1691089448195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexL4bjn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691089448886	Marionette	INFO	Marionette enabled
+1691089449053	Marionette	INFO	Listening on port 33689
+WebDriver BiDi listening on ws://127.0.0.1:52343
+Read port: 33689
+1691089449901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52343/devtools/browser/351bce22-2fe1-483d-a635-6934d61ac0a4
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691089461926	geckodriver	INFO	Listening on 127.0.0.1:43571
+1691089462502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKUJdzP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691089463131	Marionette	INFO	Marionette enabled
+1691089463297	Marionette	INFO	Listening on port 45991
+Read port: 45991
+WebDriver BiDi listening on ws://127.0.0.1:58819
+1691089464016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58819/devtools/browser/763537f0-479c-46ff-9547-36681e2b73a7
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 2396 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691090032371	geckodriver	INFO	Listening on 127.0.0.1:54009
+1691090032842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecZ1bD2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090038405	Marionette	INFO	Marionette enabled
+1691090039325	Marionette	INFO	Listening on port 39097
+Read port: 39097
+WebDriver BiDi listening on ws://127.0.0.1:38061
+1691090040018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38061/devtools/browser/feb0003a-ca8a-4a32-b09d-4910fd84cccc
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691090056508	geckodriver	INFO	Listening on 127.0.0.1:41275
+1691090057013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemgBgRs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090058001	Marionette	INFO	Marionette enabled
+1691090058164	Marionette	INFO	Listening on port 36343
+WebDriver BiDi listening on ws://127.0.0.1:54113
+Read port: 36343
+1691090058868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54113/devtools/browser/2156961c-ca63-46ee-b23a-802428ac911e
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691090071133	geckodriver	INFO	Listening on 127.0.0.1:47991
+1691090071647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuoIh6j"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090072342	Marionette	INFO	Marionette enabled
+1691090072501	Marionette	INFO	Listening on port 34123
+WebDriver BiDi listening on ws://127.0.0.1:34693
+Read port: 34123
+1691090073632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34693/devtools/browser/165f005c-0f87-4edb-a184-c9a454f4946e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 2374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691090288375	geckodriver	INFO	Listening on 127.0.0.1:37879
+1691090288896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYcBZZN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090294253	Marionette	INFO	Marionette enabled
+1691090294618	Marionette	INFO	Listening on port 40011
+WebDriver BiDi listening on ws://127.0.0.1:49867
+Read port: 40011
+1691090297255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49867/devtools/browser/d66280e3-4267-4329-a42b-334dbd45b9d4
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691090314024	geckodriver	INFO	Listening on 127.0.0.1:42705
+1691090314618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEKLd9y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090319458	Marionette	INFO	Marionette enabled
+1691090319693	Marionette	INFO	Listening on port 34691
+WebDriver BiDi listening on ws://127.0.0.1:46025
+Read port: 34691
+1691090320649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46025/devtools/browser/37f56b68-4331-4c75-8469-81b4821bd761
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691090363271	geckodriver	INFO	Listening on 127.0.0.1:51777
+1691090364314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec7tFOE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691090409208	Marionette	INFO	Marionette enabled
+1691090416435	Marionette	INFO	Listening on port 38195
+WebDriver BiDi listening on ws://127.0.0.1:50275
+Read port: 38195
+Read port: 38195
+Read port: 38195
+Read port: 38195
+Read port: 38195
+Read port: 38195
+Read port: 38195
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:50275/devtools/browser/857dd7a1-7910-4bb9-984e-45ef8778b48f
+Exiting due to channel error.
+Exiting due to channel error.
+1691090537092	geckodriver	INFO	Listening on 127.0.0.1:52391
+1691090537617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVJ6h37"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090541638	Marionette	INFO	Marionette enabled
+1691090541853	Marionette	INFO	Listening on port 33641
+WebDriver BiDi listening on ws://127.0.0.1:54683
+Read port: 33641
+1691090542763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54683/devtools/browser/b9a1fafb-850a-4693-8084-b04288f6cc2c
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+1691090560429	geckodriver	INFO	Listening on 127.0.0.1:43759
+1691090560934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUzpsil"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691090565424	Marionette	INFO	Marionette enabled
+1691090565607	Marionette	INFO	Listening on port 38933
+WebDriver BiDi listening on ws://127.0.0.1:39875
+Read port: 38933
+1691090566639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39875/devtools/browser/760c109b-91f1-4c37-99fe-c2da7a6ba22e
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691090598787	geckodriver	INFO	Listening on 127.0.0.1:50153
+1691090599296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIquOnm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: ManageChildProcess(glxtest): poll failed: Success
+
+[GFX1-]: glxtest: ManageChildProcess failed
+
+[GFX1-]: No GPUs detected via PCI
+
+1691090625759	Marionette	INFO	Marionette enabled
+1691090629339	Marionette	INFO	Listening on port 44495
+Read port: 44495
+WebDriver BiDi listening on ws://127.0.0.1:47287
+1691090630308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:47287/devtools/browser/837e840e-88a5-4bec-b297-ed45175861c0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 5418 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 5418 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)

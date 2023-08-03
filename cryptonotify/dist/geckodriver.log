@@ -1,0 +1,805 @@
+1678064083214	geckodriver	INFO	Listening on 127.0.0.1:44309
+1678064083575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "51633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilektrq62"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678064095946	Marionette	INFO	Marionette enabled
+1678064095981	Marionette	INFO	Listening on port 39339
+Read port: 39339
+Read port: 39339
+WebDriver BiDi listening on ws://127.0.0.1:51633
+1678064098209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1678064127004	geckodriver	INFO	Listening on 127.0.0.1:40375
+1678064127593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejJP0Kg"
+console.error: ({})
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilektrq62/search.json.mozlz4", (void 0)))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678064134657	Marionette	INFO	Marionette enabled
+1678064134673	Marionette	INFO	Listening on port 43721
+Read port: 43721
+WebDriver BiDi listening on ws://127.0.0.1:43861
+1678064135060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51633/devtools/browser/3cd36354-e6ff-49fc-b552-3c00ec65b37d
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejJP0Kg/search.json.mozlz4", (void 0)))
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+DevTools listening on ws://127.0.0.1:43861/devtools/browser/85860c0e-2346-4bad-96e2-e01a40ba954f
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+1678064520291	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+1678154220562	geckodriver	INFO	Listening on 127.0.0.1:36575
+1678154220992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqLgRg5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678154228714	Marionette	INFO	Marionette enabled
+1678154228744	Marionette	INFO	Listening on port 46113
+Read port: 46113
+Read port: 46113
+WebDriver BiDi listening on ws://127.0.0.1:35885
+1678154230654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqLgRg5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35885/devtools/browser/da82cfa3-e1a4-4a1c-997a-66dec261de34
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+1678375108930	geckodriver	INFO	Listening on 127.0.0.1:48291
+1678375109356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJaKeBJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678375116616	Marionette	INFO	Marionette enabled
+1678375116646	Marionette	INFO	Listening on port 33159
+Read port: 33159
+Read port: 33159
+WebDriver BiDi listening on ws://127.0.0.1:50249
+1678375118744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJaKeBJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50249/devtools/browser/0c85ef8c-79c0-4c64-8ca2-b91721b6d5b4
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1678388108496	Marionette	INFO	Stopped listening on port 33159
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+1678388452695	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1678631673417	geckodriver	INFO	Listening on 127.0.0.1:43681
+1678631673854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVpELw4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678631683276	Marionette	INFO	Marionette enabled
+1678631683304	Marionette	INFO	Listening on port 45285
+Read port: 45285
+Read port: 45285
+WebDriver BiDi listening on ws://127.0.0.1:49945
+1678631685425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVpELw4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49945/devtools/browser/de1ad379-ccd6-4aa7-83b3-0706835332af
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
+MESA: error: Failed to query drm device.
+libEGL warning: egl: failed to create dri2 screen
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2177,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2177","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1083","resource:///modules/ContentCrashHandlers.jsm:observe:177"]}] Barrier: quit-application-granted
+1678668337827	Marionette	INFO	Stopped listening on port 45285
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+[Parent 1712, IPC I/O Parent] WARNING: process 1785 exited on signal 9: file /build/firefox-AoeKfi/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+1678982252732	geckodriver	INFO	Listening on 127.0.0.1:50917
+1678982253116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHVYi7E"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678982257165	Marionette	INFO	Marionette enabled
+1678982257195	Marionette	INFO	Listening on port 33589
+Read port: 33589
+WebDriver BiDi listening on ws://127.0.0.1:60697
+1678982257917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHVYi7E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60697/devtools/browser/1c8e044e-af03-4dd6-b97c-4358b390304e
+JavaScript error: https://cmswagtail.s3.amazonaws.com/js/rellax.min.js, line 2: Error: The elements you're trying to select don't exist.
