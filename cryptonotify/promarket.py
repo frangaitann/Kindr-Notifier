@@ -10,8 +10,8 @@ import datetime
 import requests
 import os
 
-token= '6652982373:AAGJgqbvJf9BFFFqIH2kbVg6RXfCnr2VRgI'
-telegram_id= '5802908358'
+token= 'BOT-TOKEN'
+telegram_id= 'CHAT-ID'
 
 def notif_sender(msg):
      url= f'https://api.telegram.org/bot{token}/sendMessage'
